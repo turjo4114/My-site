@@ -1,1 +1,0 @@
-I'm Turjo, a data analyst who loves asking the right questions and building evidence-based answers. I work with data to uncover patterns, build dashboards, and help teams make decisions that actually move the needle. I enjoy cleaning messy datasets, designing reproducible analyses, and communicating results in plain language.
